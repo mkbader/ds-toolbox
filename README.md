@@ -1,2 +1,3 @@
 # ds-toolbox
 Prep for MS in DA 
+Need math for data scientists, R, and python as pre-reqa.  Then audit algorithms to see how I am doing.....
